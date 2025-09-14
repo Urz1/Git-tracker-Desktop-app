@@ -32,3 +32,4 @@ $ pnpm build:mac
 # For Linux
 $ pnpm build:linux
 ```
+"# Git-tracker-Desktop-app" 
